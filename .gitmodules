@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MTLR"]
 	path = MTLR
 	url = https://github.com/haiderstats/mtlr
-	shallow = true
-	registered = true
